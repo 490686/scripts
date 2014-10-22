@@ -72,6 +72,7 @@ export spirent=https://gs-fftb-collab.gsfc.nasa.gov/svn/fftb/spirent
 export fftb=https://gs-fftb-collab.gsfc.nasa.gov/svn/fftb
 export mmsasistsvn=https://gs461vm-firefly.gsfc.nasa.gov/svn/fftb/trunk/asist/mms
 export gpmasistsvn=https://gs-422-svn1.gsfc.nasa.gov/svn/labs
+export github=https://github.com/490686
 
 # ^p check for partial match in history
 bind -m vi-insert "\C-p":dynamic-complete-history
